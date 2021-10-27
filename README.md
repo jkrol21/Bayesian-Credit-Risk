@@ -1,1 +1,2 @@
-# Bayesian-Credit-Risk
+## A Bayesian Deep Learning Approach to Credit Risk 
+
